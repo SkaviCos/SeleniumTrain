@@ -1,0 +1,17 @@
+apply plugin: 'java'
+apply plugin: 'application'
+//mainClassName = "Hello"
+
+
+repositories {
+
+    mavenCentral()
+
+}
+
+dependencies {
+    compile 'junit:junit:4.12'
+    //compile 'org.testng:testng:6.10'
+    compile 'org.seleniumhq.selenium:selenium-java:3.8.0'
+    //compile 'org.seleniumhq.selenium:selenium-java:2.53.1'
+}

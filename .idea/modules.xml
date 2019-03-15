@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SeleniumTrain.iml" filepath="$PROJECT_DIR$/.idea/SeleniumTrain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/address-web-test.iml" filepath="$PROJECT_DIR$/.idea/modules/address-web-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/address-web-test.main.iml" filepath="$PROJECT_DIR$/.idea/modules/address-web-test.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/address-web-test.test.iml" filepath="$PROJECT_DIR$/.idea/modules/address-web-test.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/litecart.iml" filepath="$PROJECT_DIR$/.idea/modules/litecart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/litecart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/litecart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/litecart.test.iml" filepath="$PROJECT_DIR$/.idea/modules/litecart.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_main.iml" group="sandbox" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_test.iml" group="sandbox" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.test.iml" />
     </modules>
   </component>
 </project>
