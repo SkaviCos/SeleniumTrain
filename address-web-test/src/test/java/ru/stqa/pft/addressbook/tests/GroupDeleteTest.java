@@ -21,10 +21,11 @@ public class GroupDeleteTest extends TestBase {
 
     @Test
     public void GroupDeleteTest() {
-        Set<GroupData> before = app.group().all();
+        List<GroupData> before = app.group().all();
+//        int index = before.size() - 1;
         GroupData deletedGroup = before.iterator().next();
         app.group().delete(deletedGroup);
-        Set<GroupData> after = app.group().all();
+        List<GroupData> after = app.group().all();
         assertEquals(after.size(), before.size() - 1);// сравнение размера
 
         before.remove(deletedGroup);

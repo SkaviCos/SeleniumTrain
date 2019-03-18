@@ -99,8 +99,8 @@ public class GroupHelper extends ApplicationHelper {
         }
         return groups;
     }
-    public Set<GroupData> all() {
-        Set<GroupData> groups = new HashSet<GroupData>();
+    public List<GroupData> all() {
+        List<GroupData> groups = new ArrayList<>();
         List<WebElement> elements = wd.findElements(By.cssSelector("span.group"));
         for(WebElement element : elements){
             String name = element.getText();

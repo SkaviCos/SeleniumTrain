@@ -1,5 +1,7 @@
 package ru.stqa.pft.contact.model;
 
+import java.io.File;
+
 public class ContactData {
 
     private String firstname;
@@ -7,6 +9,16 @@ public class ContactData {
     private String lastname;
     private String nickname;
 
+    public File getPhoto() {
+        return photo;
+    }
+
+    public ContactData setPhoto(File photo) {
+        this.photo = photo;
+        return this;
+    }
+
+    private File photo;
 
     public ContactData(String firstname, String middlename, String lastname, String nickname) {
         this.firstname = firstname;
