@@ -8,7 +8,7 @@ import java.util.Set;
 
 import static org.junit.Assert.assertEquals;
 
-public class GroupCreationTest extends ru.stqa.pft.addressbook.tests.TestBase {
+public class GroupCreationTest extends TestBase {
 
     @Test
     public void testGroupCreation() {

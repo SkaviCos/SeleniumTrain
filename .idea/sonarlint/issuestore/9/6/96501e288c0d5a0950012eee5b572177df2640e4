@@ -1,0 +1,10 @@
+
+csquid:S1223	"LRename this method to prevent any misunderstanding or make it a constructor.(²‹
+Fsquid:S1481"*Remove this unused "count" local variable.(ëŞ×Èúÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(–Î‡˜ùÿÿÿÿ
+tsquid:S3973"XUse curly braces or indentation to denote the code conditionally executed by this "for".(Ùîœıÿÿÿÿ
+fsquid:S00100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‹
