@@ -19,9 +19,11 @@ dependencies {
     //compile 'org.seleniumhq.selenium:selenium-java:3.2.0'
 //    compile 'org.seleniumhq.selenium:selenium-java:2.53.1'
     compile 'org.seleniumhq.selenium:selenium-java:3.8.0'
+    testCompile group: 'org.hamcrest', name: 'java-hamcrest', version: '2.0.0.0'
     compile 'io.cucumber:cucumber-java8:2.3.1'
     compile 'io.cucumber:cucumber-junit:2.3.1'
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+    
 
 }
 compileKotlin {

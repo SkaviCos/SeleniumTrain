@@ -3,6 +3,25 @@ package ru.stqa.pft.contact.model;
 import java.io.File;
 
 public class ContactData {
+    public ContactData withFirstname(String firstname) {
+        this.firstname = firstname;
+        return this;
+    }
+
+    public ContactData withMiddlename(String middlename) {
+        this.middlename = middlename;
+        return this;
+    }
+
+    public ContactData withLastname(String lastname) {
+        this.lastname = lastname;
+        return this;
+    }
+
+    public ContactData withtNickname(String nickname) {
+        this.nickname = nickname;
+        return this;
+    }
 
     private String firstname;
     private String middlename;
@@ -20,16 +39,16 @@ public class ContactData {
 
     private File photo;
 
-    public ContactData(String firstname, String middlename, String lastname, String nickname) {
-        this.firstname = firstname;
-        this.middlename = middlename;
-        this.lastname = lastname;
-        this.nickname = nickname;
-    }
+//    public ContactData(String firstname, String middlename, String lastname, String nickname) {
+//        this.firstname = firstname;
+//        this.middlename = middlename;
+//        this.lastname = lastname;
+//        this.nickname = nickname;
+//    }
 
-    public ContactData(String firstname) {
-        this.firstname = firstname;
-    }
+//    public ContactData(String firstname) {
+//        this.firstname = firstname;
+//    }
 
     public String getFirstname() {
         return firstname;

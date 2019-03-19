@@ -22,8 +22,8 @@ public class ContactHelper extends ApplicationHelper {
         type(By.name("firstname"),contactData.getFirstname());
         type(By.name("middlename"),contactData.getMiddlename());
         type(By.name("lastname"),contactData.getLastname());
-        type(By.name("nickname"),contactData.getNickname());
-
+//        type(By.name("nickname"),contactData.getNickname());
+        type(By.xpath(".//input[@name = \"nickname\"]"),contactData.getNickname());
     }
 
     public void submitContact() {

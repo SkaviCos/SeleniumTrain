@@ -15,7 +15,7 @@ public class ApplicatioMananger {
     WebDriver wd;
 
 
-    private ru.stqa.pft.addressbook.appmanager.SessionHelper sessionHelper;
+    private SessionHelper sessionHelper;
     private NavigationHelper navigationHelper;
     private GroupHelper groupHelper;
     private ContactHelper contactHelper;

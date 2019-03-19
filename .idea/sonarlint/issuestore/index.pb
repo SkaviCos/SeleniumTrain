@@ -53,7 +53,11 @@ z
 Jaddress-web-test/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java,2\e\2ec374db8fb239a01b43e2dca2ff0ead317d63d4
 y
 Iaddress-web-test/src/test/java/ru/stqa/pft/contact/model/ContactData.java,4\0\4070e0b2c6b59ad873f891fbbc35fc7a9e565f10
-y
-Iaddress-web-test/src/test/java/ru/stqa/pft/contact/ContactTestCreate.java,8\f\8fac7c67469033a998ce998c047d4969f5ac0fd5
-l
-<address-web-test/src/test/java/ru/stqa/pft/contact/Push.java,f\b\fb026c53ef786db00473abc35c543cabe2533e0f
+x
+Haddress-web-test/src/test/java/ru/stqa/pft/addressbook/BirthdayTest.java,7\0\701dfee88fd8985f2aca69496b6a9f31ad2de4fb
+v
+Faddress-web-test/src/test/java/ru/stqa/pft/addressbook/tests/Push.java,3\d\3d1c482406a27837f5969e7250b3fd681295c862
+‰
+Yaddress-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestModification.java,e\7\e7462ff384ea5183427010ecf6788f3488906865
+ƒ
+Saddress-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestCreate.java,5\8\58615422687cbb180bc42826664fe3f19a561799
