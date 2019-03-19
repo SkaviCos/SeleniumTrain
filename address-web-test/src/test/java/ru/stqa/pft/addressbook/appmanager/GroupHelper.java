@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 import ru.stqa.pft.addressbook.model.GroupData;
 import ru.stqa.pft.addressbook.model.Groups;
 
+import java.security.acl.Group;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -62,6 +63,7 @@ public class GroupHelper extends ApplicationHelper {
         initGroupPage("new");
         fillGroupForm(group);
         submitGroupCreation("submit");
+        groupCache = null;
         returnToGroupPage();
 
     }
@@ -71,6 +73,7 @@ public class GroupHelper extends ApplicationHelper {
         editGroup();
         fillGroupForm(group);
         updateGroup();
+        groupCache = null;
         returnToGroupPage();
     }
 
@@ -79,6 +82,7 @@ public class GroupHelper extends ApplicationHelper {
     public void delete(GroupData group) {
         selectedElementById(group.getId());
         deleteSomeGroup();
+        groupCache = null;
         returnToGroupPage();
     }
 
@@ -100,14 +104,17 @@ public class GroupHelper extends ApplicationHelper {
         }
         return groups;
     }
+    private Groups groupCache = null;
+
     public Groups all() {
-      Groups groups = new Groups();
+        if (groupCache != null)return new Groups(groupCache);
+      groupCache = new Groups();
         List<WebElement> elements = wd.findElements(By.cssSelector("span.group"));
         for(WebElement element : elements){
             String name = element.getText();
             int id = Integer.parseInt(element.findElement(By.tagName("input")).getAttribute("value"));
-            groups.add(new GroupData().withId(id).withName(name));
+            groupCache.add(new GroupData().withId(id).withName(name));
         }
-        return groups;
+        return new Groups(groupCache);
     }
 }
