@@ -2,7 +2,7 @@ package ru.trainjava.sandbox;
 
 public class Example {
     public static void main(String[] args) {
-        int a =90;
+        int a = 90;
 
         int b = a++;
         long l = 89;
