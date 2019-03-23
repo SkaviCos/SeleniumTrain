@@ -49,7 +49,7 @@ public class demotest {
         //}
 
         System.out.println(alphabet.size());
-        List<String> alpha = new ArrayList<>(alphabet);
+        List<String> alpha = alphabet;
 
         Collections.sort(alpha);
         //for (String h : alphabet) {
