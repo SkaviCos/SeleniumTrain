@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="200c9031-c14c-49f8-8fb3-420bef3f0a59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/address-web-test.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/address-web-test.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/address-web-test.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/address-web-test.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96501e288c0d5a0950012eee5b572177df2640e4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96501e288c0d5a0950012eee5b572177df2640e4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/address-web-test/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/address-web-test/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/address-web-test/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/ContactDataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/ContactDataGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/GroupDataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/GroupDataGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/tests/GroupCreationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/tests/GroupCreationTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/pft/litecart/demotest.java" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/pft/litecart/demotest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/address-web-test/.gradle/" />
@@ -75,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="242">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -201,8 +192,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="934" />
-    <option name="y" value="97" />
+    <option name="x" value="522" />
+    <option name="y" value="150" />
     <option name="width" value="1450" />
     <option name="height" value="1400" />
   </component>
@@ -395,7 +386,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553363257836" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553411080196" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/address-web-test" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -419,7 +410,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GroupCreationTest.testGroupCreation">
+  <component name="RunManager" selected="JUnit.GroupCreationTest">
     <configuration name="ContactDataGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.generator.ContactDataGenerator" />
       <module name="address-web-test.test" />
@@ -675,8 +666,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GroupCreationTest.testGroupCreation" />
         <item itemvalue="JUnit.GroupCreationTest" />
+        <item itemvalue="JUnit.GroupCreationTest.testGroupCreation" />
         <item itemvalue="Application.ContactDataGenerator" />
         <item itemvalue="Application.GroupDataGenerator" />
         <item itemvalue="Application.UIo" />
@@ -705,7 +696,7 @@
       <workItem from="1553153961897" duration="2195000" />
       <workItem from="1553235780486" duration="1849000" />
       <workItem from="1553273180131" duration="754000" />
-      <workItem from="1553332906581" duration="12782000" />
+      <workItem from="1553332906581" duration="14900000" />
     </task>
     <task id="LOCAL-00001" summary="litecart commit">
       <created>1552685990452</created>
@@ -763,13 +754,17 @@
       <option name="project" value="LOCAL" />
       <updated>1553273666400</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Rebuild Generator with Jcommander plugin &#10;Parameterized test for GroupCreation&#10;Small refactoring">
+      <created>1553366315337</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553366315338</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupCreationTest - 2019.03.23 at 18h 57m 51s.xml">
-      <configuration name="GroupCreationTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GroupCreationTest - 2019.03.23 at 18h 58m 12s.xml">
       <configuration name="GroupCreationTest" configurationId="JUnit" />
     </history-entry>
@@ -797,15 +792,18 @@
     <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 20h 47m 32s.xml">
       <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 22h 53m 32s.xml">
+      <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79211000" />
+    <option name="totallyTimeSpent" value="81329000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="934" y="97" width="1450" height="1400" extended-state="0" />
+    <frame x="522" y="150" width="1450" height="1400" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29640287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29640287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -814,7 +812,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49960256" weight="0.32969603" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7971223" visible="true" weight="0.4080505" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7971223" weight="0.4080505" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39936858" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -853,7 +851,8 @@
     <MESSAGE value="New assert" />
     <MESSAGE value="Generator for Contact&#10;Generator for Group" />
     <MESSAGE value="New examples for sandbox packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="New examples for sandbox packages" />
+    <MESSAGE value="Rebuild Generator with Jcommander plugin &#10;Parameterized test for GroupCreation&#10;Small refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rebuild Generator with Jcommander plugin &#10;Parameterized test for GroupCreation&#10;Small refactoring" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/SessionHelper.java">
@@ -1180,13 +1179,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tngtech.java/junit-dataprovider/1.10.0/e73e86c873c0fbd44accdefe5c87da1f09410ea2/junit-dataprovider-1.10.0-sources.jar!/com/tngtech/java/junit/dataprovider/UseDataProvider.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -1234,10 +1226,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="242">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

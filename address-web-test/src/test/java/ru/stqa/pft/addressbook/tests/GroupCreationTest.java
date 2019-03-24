@@ -6,6 +6,7 @@ import org.junit.runners.Parameterized;
 import ru.stqa.pft.addressbook.model.GroupData;
 import ru.stqa.pft.addressbook.model.Groups;
 
+import java.io.IOException;
 import java.util.Arrays;
 
 import static org.hamcrest.CoreMatchers.equalTo;
@@ -25,9 +26,11 @@ public class GroupCreationTest extends TestBase {
         this.footer = footer;
     }
 
+
     @Parameters
-    public static Iterable<Object[]> validGroups() {
+    public static Iterable<Object[]> validGroups() throws IOException {
         return Arrays.asList(new Object[][]{
+
                 {"test1", "test1", "test1"},
                 {"test12", "test12", "test13"},
                 {"test13", "test13", "test12"}
