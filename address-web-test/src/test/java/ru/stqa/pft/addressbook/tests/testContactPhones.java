@@ -1,11 +1,5 @@
 package ru.stqa.pft.addressbook.tests;
 
-import org.junit.Test;
-import ru.stqa.pft.contact.model.ContactData;
-
-import java.util.Arrays;
-import java.util.stream.Collectors;
-
 public class testContactPhones extends TestBase {
 //
 //    @Test

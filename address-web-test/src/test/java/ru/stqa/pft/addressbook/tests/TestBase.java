@@ -1,7 +1,7 @@
 package ru.stqa.pft.addressbook.tests;
 
-import org.junit.After;
-import org.junit.Before;
+import cucumber.api.java.After;
+import cucumber.api.java.Before;
 import org.openqa.selenium.remote.BrowserType;
 import ru.stqa.pft.addressbook.appmanager.ApplicatioMananger;
 

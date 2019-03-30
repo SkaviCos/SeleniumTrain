@@ -2,9 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="200c9031-c14c-49f8-8fb3-420bef3f0a59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupTestFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/litecart/src/test/java/bdd/DemotestSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/DataStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/address-web-test.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/address-web-test.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/address-web-test.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/address-web-test.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/litecart.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/litecart.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/litecart.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/litecart.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96501e288c0d5a0950012eee5b572177df2640e4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96501e288c0d5a0950012eee5b572177df2640e4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/tests/GroupCreationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/tests/GroupCreationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/appmanager/ApplicatioMananger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/appmanager/ApplicationHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/appmanager/GroupHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/appmanager/NavigationHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/appmanager/SessionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/model/GroupData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/model/LoginParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/tests/GroupCreationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/tests/GroupDeleteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/tests/GroupModificationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/addressbook/tests/TestBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/contact/appmanager/ContactHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/out/test/classes/ru/stqa/pft/contact/model/ContactData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/GroupDataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/GroupDataGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/GroupData.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/GroupData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestModification.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestModification.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeleteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupModificationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupModificationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/Push.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/Push.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/testContactPhones.java" beforeDir="false" afterPath="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/testContactPhones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/litecart/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/litecart/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/litecart/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/litecart/out/test/classes/ru/stqa/pft/litecart/demotest.class" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/out/test/classes/ru/stqa/pft/litecart/demotest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/pft/litecart/demotest.java" beforeDir="false" afterPath="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/pft/litecart/demotest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patch.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/address-web-test/.gradle/" />
@@ -36,17 +78,53 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="address-web-test" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="address-web-test" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="address-web-test" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="address-web-test" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="address-web-test" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="org.seleniumhq.selenium:selenium-java:3.8.0" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address-web-test/build.gradle">
+        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/LoginParam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -54,68 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/ContactDataGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/GroupHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/GroupData.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#637#638#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#1080#1081#0" expanded="true" />
-                <element signature="e#1107#1108#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tngtech.java/junit-dataprovider/1.10.0/e73e86c873c0fbd44accdefe5c87da1f09410ea2/junit-dataprovider-1.10.0-sources.jar!/com/tngtech/java/junit/dataprovider/UseDataProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -123,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/GroupDataGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+            <state relative-caret-position="731">
+              <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,13 +151,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/resources/contacts.csv">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/SessionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/resources/groups.csv">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/GroupHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicationHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicatioMananger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="29" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="45" />
+              <folding>
+                <element signature="e#1699#1700#0" expanded="true" />
+                <element signature="e#1738#1739#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patchies.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patchs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -147,6 +222,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Substep Feature" />
         <option value="Class" />
       </list>
     </option>
@@ -164,34 +240,46 @@
       <list>
         <option value="$PROJECT_DIR$/sandbox/build.gradle" />
         <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/contact/ContactTestCreate.java" />
-        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java" />
-        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/GroupData.java" />
         <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/contact/model/ContactData.java" />
-        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/Push.java" />
-        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestModification.java" />
-        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestCreate.java" />
         <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/contact/appmanager/ContactHelper.java" />
         <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicatioMananger.java" />
-        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeleteTest.java" />
-        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupModificationTest.java" />
         <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/Groups.java" />
         <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/GroupHelper.java" />
-        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/testContactPhones.java" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Numeric.java" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Hello.java" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Example.java" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/hSet.java" />
         <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/UIo.java" />
-        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/pft/litecart/demotest.java" />
-        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/GroupDataGenerator.java" />
         <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/ContactDataGenerator.java" />
-        <option value="$PROJECT_DIR$/address-web-test/build.gradle" />
         <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/DataProvider.java" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/resources/groups.csv" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/GroupDataGenerator.java" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/GroupData.java" />
+        <option value="$PROJECT_DIR$/address-web-test/build.gradle" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupModificationTest.java" />
+        <option value="$PROJECT_DIR$/litecart/src/test/resources/first.feature" />
+        <option value="$PROJECT_DIR$/litecart/build.gradle" />
+        <option value="$PROJECT_DIR$/litecart/src/test/java/bdd/GroupStepDefinition.java" />
+        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/pft/litecart/demotest.java" />
+        <option value="$PROJECT_DIR$/litecart/src/test/resources/First.feature" />
+        <option value="$PROJECT_DIR$/litecart/src/test/java/ru/stqa/pft/litecart/DemotestSecond.java" />
+        <option value="$PROJECT_DIR$/litecart/src/test/java/bdd/DemotestSecond.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/DataStructure.java" />
         <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestModification.java" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestCreate.java" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeleteTest.java" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupTestFromFile.java" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/Push.java" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java" />
+        <option value="$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/testContactPhones.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patch.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patchies.java" />
+        <option value="$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patchs.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="522" />
     <option name="y" value="150" />
     <option name="width" value="1450" />
@@ -202,34 +290,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -237,7 +324,7 @@
               <item name="pft" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -246,7 +333,7 @@
               <item name="addressbook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -256,7 +343,7 @@
               <item name="appmanager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -266,7 +353,7 @@
               <item name="generator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -276,7 +363,7 @@
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -286,36 +373,66 @@
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pft" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pft" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
+              <item name="appmanager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="address-web-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pft" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="litecart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="litecart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="litecart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="litecart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="litecart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="litecart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -323,29 +440,44 @@
               <item name="litecart" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="litecart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="litecart" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="bdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
@@ -353,31 +485,27 @@
               <item name="sandbox" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.tngtech.java:junit-dataprovider:1.10.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sandbox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumTrain" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.tngtech.java:junit-dataprovider:1.10.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-dataprovider-1.10.0.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumTraini" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: com.tngtech.java:junit-dataprovider:1.10.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="junit-dataprovider-1.10.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="dataprovider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Course" />
     </panes>
@@ -386,7 +514,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553411080196" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553933329179" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/address-web-test" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -395,7 +523,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\SeleniumTrain\litecart" />
       <recent name="C:\Users\Константин\Documents\GitHub\SeleniumTraini\address-web-test\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\SeleniumTrain\litecart\src\test\resources\bdd" />
+      <recent name="C:\GitHub\SeleniumTrain\address-web-test\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -410,50 +543,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GroupCreationTest">
-    <configuration name="ContactDataGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.generator.ContactDataGenerator" />
-      <module name="address-web-test.test" />
-      <option name="PROGRAM_PARAMETERS" value="-c 10 -f src/test/resources/contacts.csv" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/address-web-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.addressbook.generator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupDataGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.generator.GroupDataGenerator" />
-      <module name="address-web-test.test" />
-      <option name="PROGRAM_PARAMETERS" value="-c 10 -f src/test/resources/groups.csv" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/address-web-test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.addressbook.generator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UIo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.trainjava.sandbox.UIo" />
-      <module name="sandbox.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.trainjava.sandbox.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Cucumber java.Feature: First (1)">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="SeleniumTrain" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -474,33 +564,125 @@
       <option name="OPTIONS" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GroupCreationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="address-web-test.test" />
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="SeleniumTrain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="SeleniumTrain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="SeleniumTrain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Feature: First (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/litecart/src/test/resources/bdd/First.feature" />
+      <option name="GLUE" value="bdd ru.stqa.pft.addressbook.tests" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="litecart.test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.addressbook.tests.*" />
+          <option name="PATTERN" value="cucumber.api.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.tests.GroupCreationTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupCreationTest.testGroupCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="address-web-test.test" />
+    <configuration name="Feature: First" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/litecart/src/test/resources/First.feature" />
+      <option name="GLUE" value="ru.stqa.pft.addressbook.tests ru.stqa.pft.litecart" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="litecart.test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: First" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.stqa.pft.addressbook.tests.*" />
+          <option name="PATTERN" value="cucumber.api.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.pft.addressbook.tests" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.addressbook.tests.GroupCreationTest" />
-      <option name="METHOD_NAME" value="testGroupCreation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: first" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/litecart/src/test/resources/first.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="litecart.test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: first" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemotestSecond.testSec" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="litecart.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bdd" />
+      <option name="MAIN_CLASS_NAME" value="bdd.DemotestSecond" />
+      <option name="METHOD_NAME" value="testSec" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupStepDefinition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="litecart.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bdd" />
+      <option name="MAIN_CLASS_NAME" value="bdd.GroupStepDefinition" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -552,32 +734,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <module name="SeleniumTrain" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <module name="SeleniumTrain" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="SeleniumTrain" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -598,19 +754,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
-      <module name="SeleniumTrain" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -658,19 +801,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.GroupDataGenerator" />
-      <item itemvalue="Application.ContactDataGenerator" />
-      <item itemvalue="Application.UIo" />
-      <item itemvalue="JUnit.GroupCreationTest" />
-      <item itemvalue="JUnit.GroupCreationTest.testGroupCreation" />
+      <item itemvalue="Cucumber java.Feature: first" />
+      <item itemvalue="Cucumber java.Feature: First" />
+      <item itemvalue="Cucumber java.Feature: First (1)" />
+      <item itemvalue="JUnit.DemotestSecond.testSec" />
+      <item itemvalue="JUnit.GroupStepDefinition" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GroupCreationTest" />
-        <item itemvalue="JUnit.GroupCreationTest.testGroupCreation" />
-        <item itemvalue="Application.ContactDataGenerator" />
-        <item itemvalue="Application.GroupDataGenerator" />
-        <item itemvalue="Application.UIo" />
+        <item itemvalue="Cucumber java.Feature: First (1)" />
+        <item itemvalue="JUnit.GroupStepDefinition" />
+        <item itemvalue="JUnit.DemotestSecond.testSec" />
+        <item itemvalue="Cucumber java.Feature: First" />
+        <item itemvalue="Cucumber java.Feature: first" />
       </list>
     </recent_temporary>
   </component>
@@ -765,45 +908,44 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupCreationTest - 2019.03.23 at 18h 58m 12s.xml">
-      <configuration name="GroupCreationTest" configurationId="JUnit" />
+    <history-entry file="Feature__First - 2019.03.27 at 23h 35m 33s.xml">
+      <configuration name="Feature: First" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 19h 03m 03s.xml">
-      <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
+    <history-entry file="Feature__First - 2019.03.27 at 23h 35m 51s.xml">
+      <configuration name="Feature: First" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 19h 03m 51s.xml">
-      <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
+    <history-entry file="Feature__First - 2019.03.27 at 23h 36m 59s.xml">
+      <configuration name="Feature: First" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 20h 33m 36s.xml">
-      <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
+    <history-entry file="Feature__First - 2019.03.27 at 23h 40m 56s.xml">
+      <configuration name="Feature: First" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 20h 34m 03s.xml">
-      <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
+    <history-entry file="DemotestSecond_testSec - 2019.03.27 at 23h 41m 55s.xml">
+      <configuration name="DemotestSecond.testSec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 20h 35m 04s.xml">
-      <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
+    <history-entry file="GroupStepDefinition - 2019.03.27 at 23h 46m 22s.xml">
+      <configuration name="GroupStepDefinition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 20h 38m 39s.xml">
-      <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
+    <history-entry file="GroupStepDefinition - 2019.03.27 at 23h 46m 46s.xml">
+      <configuration name="GroupStepDefinition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 20h 46m 46s.xml">
-      <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
+    <history-entry file="GroupStepDefinition - 2019.03.27 at 23h 47m 31s.xml">
+      <configuration name="GroupStepDefinition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 20h 47m 32s.xml">
-      <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
+    <history-entry file="GroupStepDefinition - 2019.03.27 at 23h 49m 48s.xml">
+      <configuration name="GroupStepDefinition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GroupCreationTest_testGroupCreation - 2019.03.23 at 22h 53m 32s.xml">
-      <configuration name="GroupCreationTest.testGroupCreation" configurationId="JUnit" />
+    <history-entry file="Feature__First_(1) - 2019.03.28 at 12h 15m 48s.xml">
+      <configuration name="Feature: First (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="81329000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="522" y="150" width="1450" height="1400" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29640287" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2596401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -811,21 +953,21 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49960256" weight="0.32969603" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7971223" weight="0.4080505" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49871466" weight="0.32839838" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7937018" visible="true" weight="0.4078062" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39936858" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.6913669" weight="0.32833466" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.68958867" visible="true" weight="0.781965" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.2028777" side_tool="true" visible="true" weight="0.4080505" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4942446" weight="0.32833466" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.2062982" side_tool="true" weight="0.4078062" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49357328" weight="0.3270525" />
       <window_info anchor="bottom" id="SonarLint" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.32974428" />
       <window_info anchor="bottom" id="Regex Tester" order="16" sideWeight="0.49960256" weight="0.32969603" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -833,7 +975,7 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.32969153" />
       <window_info anchor="right" id="SciView" order="7" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
@@ -842,6 +984,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="litecart commit" />
@@ -855,152 +1023,78 @@
     <option name="LAST_COMMIT_MESSAGE" value="Rebuild Generator with Jcommander plugin &#10;Parameterized test for GroupCreation&#10;Small refactoring" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/SessionHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/ToIntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/BirthdayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#526#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/contact/model/ContactData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="50" column="7" selection-start-line="48" selection-start-column="5" selection-end-line="50" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeleteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupModificationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestModification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestCreate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/testContactPhones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" selection-start-line="9" selection-start-column="2" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/Push.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/contact/appmanager/ContactHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/ArraySort.java">
+    <entry file="file://$PROJECT_DIR$/address-web-test/address-web-test.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/resources/groups.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="408" column="17" selection-start-line="408" selection-start-column="17" selection-end-line="408" selection-end-column="17" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/NavigationHelper.java">
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/resources/groups1.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/Parameterized.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="2635">
+          <caret line="172" column="29" selection-start-line="172" selection-start-column="29" selection-end-line="172" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicationHelper.java">
+    <entry file="file://$PROJECT_DIR$/litecart/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.pragmatists/JUnitParams/1.1.1/c90b5cb0b6fb0c332a3bbb9ea9bb467fb7604cb7/JUnitParams-1.1.1-sources.jar!/junitparams/FileParameters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/LoginParam.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.pragmatists/JUnitParams/1.1.1/c90b5cb0b6fb0c332a3bbb9ea9bb467fb7604cb7/JUnitParams-1.1.1-sources.jar!/junitparams/JUnitParamsRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="6307">
+          <caret line="392" column="13" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/Groups.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/ArrList.java">
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Sc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/One.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Numeric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Numbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1018,69 +1112,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/stream/Stream.java">
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2074">
-          <caret line="168" column="40" selection-start-line="168" selection-start-column="31" selection-end-line="168" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8381">
-          <caret line="535" column="25" selection-start-line="535" selection-start-column="25" selection-end-line="535" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/IntSummaryStatistics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/UIo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Numeric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1553085168080" expanded="true" signature="2163:2640" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/One.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patch.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Sc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1091,6 +1126,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/ArraySort.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/3.8.0/ba70e4851d3f69a9357887b1f644c865566f8ccc/selenium-chrome-driver-3.8.0-sources.jar!/org/openqa/selenium/chrome/ChromeDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="121" column="9" selection-start-line="121" selection-start-column="9" selection-end-line="121" selection-end-column="9" />
+          <folding>
+            <element signature="e#4639#4640#0" expanded="true" />
+            <element signature="e#4718#4719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/NavigationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/pft/litecart/demotest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/bdd/DemotestSecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/UIo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Progression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1098,148 +1202,215 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/hSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="11" selection-start-line="11" selection-start-column="10" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Hello.java">
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/resources/bdd/First.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicatioMananger.java">
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/ArrList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1627#1628#0" expanded="true" />
-            <element signature="e#1661#1662#0" expanded="true" />
-            <element signature="e#1785#1786#0" expanded="true" />
-            <element signature="e#1821#1822#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.8.0/473d7a8289d2dc7e9b0404ca276d63c1ef3a6cea/selenium-api-3.8.0-sources.jar!/org/openqa/selenium/WebDriver.java">
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/DataStructure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="141" column="22" selection-start-line="141" selection-start-column="22" selection-end-line="141" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/ru/stqa/pft/litecart/demotest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/litecart/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/resources/contacts.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/resources/groups.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/GroupDataGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        <state relative-caret-position="119">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/ContactDataGenerator.java">
+    <entry file="file://$PROJECT_DIR$/litecart/src/test/java/bdd/GroupStepDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state relative-caret-position="119">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tngtech.java/junit-dataprovider/1.10.0/e73e86c873c0fbd44accdefe5c87da1f09410ea2/junit-dataprovider-1.10.0-sources.jar!/com/tngtech/java/junit/dataprovider/UseDataProvider.java">
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestModification.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/DataProvider.java">
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/ContactTestCreate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupModificationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupTestFromFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="59" lean-forward="true" selection-end-line="59" />
+          <folding>
+            <element signature="e#0#2284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/Push.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/testContactPhones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/BirthdayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#526#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/GroupData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding>
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#1080#1081#0" expanded="true" />
-            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/Groups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/model/LoginParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/ContactDataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/generator/GroupDataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/SessionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/GroupHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/build.gradle">
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicationHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="88" selection-start-line="22" selection-start-column="88" selection-end-line="22" selection-end-column="88" />
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java">
+    <entry file="file://$PROJECT_DIR$/address-web-test/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicatioMananger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="323">
+          <caret line="29" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="45" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1699#1700#0" expanded="true" />
+            <element signature="e#1738#1739#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patchies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox/src/main/java/ru/trainjava/sandbox/Patchs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -1272,7 +1443,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Python 3.5 (Introduction to Python) interpreter library</last-edited>
+          <last-edited>Python 3.6 (page-factory-exmple) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1296,7 +1467,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>test|litecart</last-edited>
+          <last-edited>test|address-web-test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

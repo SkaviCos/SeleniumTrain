@@ -1,10 +1,10 @@
 
-Fsquid:S1481"*Remove this unused "count" local variable.(ëÞ×Èúÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
-gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(–Î‡˜ùÿÿÿÿ
-csquid:S1223	"LRename this method to prevent any misunderstanding or make it a constructor.(²‹
 fsquid:S00100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²‹
 tsquid:S3973"XUse curly braces or indentation to denote the code conditionally executed by this "for".(Ùîœýÿÿÿÿ
+Fsquid:S1481"*Remove this unused "count" local variable.(ëÞ×Èúÿÿÿÿ
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(–Î‡˜ùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+csquid:S1223	"LRename this method to prevent any misunderstanding or make it a constructor.(²‹

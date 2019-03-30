@@ -1,7 +1,6 @@
 package ru.stqa.pft.addressbook.tests;
 
-import org.junit.Test;
-import ru.stqa.pft.addressbook.tests.TestBase;
+import org.testng.annotations.Test;
 import ru.stqa.pft.contact.model.ContactData;
 
 public class Push extends TestBase {

@@ -1,13 +1,16 @@
 package ru.stqa.pft.addressbook.tests;
 
-import org.junit.Before;
-import org.junit.Test;
+import cucumber.api.java.Before;
+//import org.junit.Before;
+//import org.junit.Test;
+import org.testng.annotations.Test;
 import ru.stqa.pft.addressbook.model.GroupData;
 import ru.stqa.pft.addressbook.model.Groups;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.junit.Assert.assertEquals;
+//import static org.junit.Assert.assertEquals;
+import static org.testng.Assert.assertEquals;
 
 public class GroupModificationTest extends TestBase {
     @Before

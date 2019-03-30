@@ -1,8 +1,11 @@
 package ru.stqa.pft.addressbook.tests;
 
-import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.junit.runners.Parameterized;
+import com.beust.jcommander.Parameterized;
+//import org.junit.Test;
+//import org.junit.runner.RunWith;
+//import org.junit.runners.Parameterized;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
 import ru.stqa.pft.addressbook.model.GroupData;
 import ru.stqa.pft.addressbook.model.Groups;
 
@@ -11,9 +14,10 @@ import java.util.Arrays;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.MatcherAssert.assertThat;
-import static org.junit.runners.Parameterized.Parameters;
+//import static org.junit.runners.Parameterized.Parameters;
 
 @RunWith(Parameterized.class)
+
 public class GroupCreationTest extends TestBase {
 
     private String name;
@@ -30,12 +34,18 @@ public class GroupCreationTest extends TestBase {
     @Parameters
     public static Iterable<Object[]> validGroups() throws IOException {
         return Arrays.asList(new Object[][]{
-
-                {"test1", "test1", "test1"},
-                {"test12", "test12", "test13"},
-                {"test13", "test13", "test12"}
+                {
+                        "test1", "test1", "test1"
+                },
+                {
+                        "test12", "test12", "test13"
+                },
+                {
+                        "test13", "test13", "test12"
+                }
         });
     }
+
 
     @Test
     public void testGroupCreation() {

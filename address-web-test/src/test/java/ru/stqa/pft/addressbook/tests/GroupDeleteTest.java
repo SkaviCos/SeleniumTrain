@@ -1,13 +1,13 @@
 package ru.stqa.pft.addressbook.tests;
 
+import cucumber.api.java.Before;
 import org.hamcrest.CoreMatchers;
 import org.hamcrest.MatcherAssert;
-import org.junit.Before;
-import org.junit.Test;
+import org.testng.annotations.Test;
 import ru.stqa.pft.addressbook.model.GroupData;
 import ru.stqa.pft.addressbook.model.Groups;
 
-import static org.junit.Assert.assertEquals;
+import static org.testng.Assert.assertEquals;
 
 public class GroupDeleteTest extends TestBase {
     @Before
