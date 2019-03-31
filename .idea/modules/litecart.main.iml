@@ -3,7 +3,10 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../litecart/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../litecart/src/main" />
+    <content url="file://$MODULE_DIR$/../../litecart/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../litecart/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../litecart/src/main/resources" type="java-resource" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-java:3.8.0" level="project" />
